@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Monserat", sans-serif;
+  background: linear-gradient(89deg, #3c4de7 0%, #e7709a 100%);
+}
+
+button {
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:active {
+  outline: none;
+}
