@@ -48,7 +48,7 @@ class Signin extends React.Component {
                   Email
                 </label>
                 <input
-                  className="pa2 input-reset ba bg-transparent hover-bg-black hover-white w-100"
+                  className="pa2 input-reset ba bg-transparent hover-bg-transparent hover-white w-100"
                   type="email"
                   name="email-address"
                   id="email-address"
@@ -60,7 +60,7 @@ class Signin extends React.Component {
                   Password
                 </label>
                 <input
-                  className="b pa2 input-reset ba bg-transparent hover-bg-black hover-white w-100"
+                  className="b pa2 input-reset ba bg-transparent hover-bg-transparent hover-white w-100"
                   type="password"
                   name="password"
                   id="password"
